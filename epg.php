@@ -276,3 +276,26 @@ EOF;
 exit;
 
 ?>
+
+                //for (int i = 1; i <= 12; i++)
+                //{
+                //    int k = 6;
+                //    int l = 6 + i * 30;
+                //    int colSpan = 1;
+                //    var shows = records.ToList().Where(x => (x.StartTime >= 6 && x.StartTime <= 6:30)).tolist();
+                //    if (i == 1)
+                //    {
+                //        shows = records.ToList().Where(x => (x.StartTime >= 6 && x.StartTime <= 6:30) || (x.StartTime <= 6)).tolist();
+                //    }
+                //    for (int j = 0; j < shows.Count(); j++)
+                //    {
+                //        var show = shows[j];
+                //        startDate = show['start'];
+                //        endDate = show['end'];
+                //        colspan = (endDateInMinutes - startDateinMinutes) / 30;
+                //        $OUT_STR.= "<span class='tvtime'>$tvtime</span><br><span class='tvshow'>$tvshow</span>";
+                        
+                //    }
+                //    $OUT_STR.= "</td>\n";
+                //    $OUT_STR = "<td class='td_show' colspan = 'colspan' >" + $OUT_STR;
+                //}
